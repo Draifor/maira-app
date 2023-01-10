@@ -1,5 +1,6 @@
-import logo from "../public/logo.jpeg";
-import Image from "next/image";
+"use client"
+import logo from "../../public/logo.jpeg";
+import Image from "@nextui-org/react";
 
 export default function Header() {
   return (
